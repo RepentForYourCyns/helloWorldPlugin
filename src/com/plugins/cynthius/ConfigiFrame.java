@@ -6,17 +6,17 @@ import org.bukkit.entity.LivingEntity;
 import org.bukkit.plugin.java.JavaPlugin;
 
 
-public class HelloWorldPlugin extends JavaPlugin {
+public class ConfigiFrame extends JavaPlugin {
 	
 	@Override
 	public void onDisable() {
-		getLogger().info("[Plugin stopped]");
+		getLogger().info("[ConfigiFrame shut down]");
 		super.onDisable();
 	}
 
 	@Override
 	public void onEnable() {
-		getLogger().info("Hello World");
+		getLogger().info("[ConfigiFrame launched]");
 		super.onEnable();
 	}
 	
