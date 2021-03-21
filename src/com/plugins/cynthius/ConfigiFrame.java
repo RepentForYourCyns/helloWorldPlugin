@@ -6,6 +6,12 @@ import org.bukkit.entity.LivingEntity;
 import org.bukkit.plugin.java.JavaPlugin;
 
 
+/**
+ * Plugin to enable configuration of noDamageTicks
+ * 
+ * @author Cosmo De Bonis-Campbell
+ *
+ */
 public class ConfigiFrame extends JavaPlugin {
 	
 	@Override
