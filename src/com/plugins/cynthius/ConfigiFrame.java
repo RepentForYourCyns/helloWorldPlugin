@@ -14,7 +14,7 @@ import org.bukkit.plugin.java.JavaPlugin;
  */
 public class ConfigiFrame extends JavaPlugin {
 	
-	@Override
+	@Override	
 	public void onDisable() {
 		getLogger().info("[ConfigiFrame shut down]");
 		super.onDisable();
