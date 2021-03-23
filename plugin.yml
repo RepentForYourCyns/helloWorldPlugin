@@ -1,3 +1,4 @@
 main: com.plugins.cynthius.ConfigiFrame
 name: ConfigiFrame
 version: 0.1
+description: Enables configuration of the maximumNoDamageTicks for all LivingEntities on the server. The default value is 20
